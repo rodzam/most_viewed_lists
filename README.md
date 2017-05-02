@@ -1,4 +1,4 @@
-Evaluating Lists of Most-Viewed Items
+Examining the Comparability of 'Most-Viewed Lists'
 ====================
 Author: Rodrigo Zamith
 
